@@ -1,17 +1,7 @@
 ### Hiya 👋
 
-I'm Phil and obsessed with tinkering on tools & projects that solve interesting problems on the web, while improving everyone's Developer Experience. 💡
-Even if it costs me some sleepless nights in the process. 🌃
-
-Back when I used to go outdoors and, well, talk at meetups, conferences, or give workshops, I was also known for looking awkward (but passionate) while doing so. 🔭
-
-<table><tr>
-<td><img src="conf-1.jpg" /></td>
-<td><img src="conf-2.jpg" /></td>
-<td><img src="conf-3.jpg" /></td>
-</tr></table>
-
-I currently work at [Formidable](https://github.com/FormidableLabs), and am involved in
+I'm Phil, a notorious tinkerer and obsessed with developer tooling and the web platform.
+I currently work at [GraphCDN](https://graphcdn.io/), was formerly working as a Developer Advocate at [Formidable](https://formidable.com), and am involved in
 Open Source projects like:
 
 - [`styled-components`](https://github.com/styled-components/styled-components) — CSS-in-JS for React
