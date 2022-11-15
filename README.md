@@ -12,7 +12,7 @@ Open Source projects like:
 
 You may also know me from the font I created, [Dank Mono](https://gumroad.com/l/dank-mono).
 
-<strong>I'm always happy to hear from people who use my work, or get some questions that I can answer.
-Feel free to reach out to me on <a rel="me" href="https://toot.cafe/@philpl">Mastodon <code>@philpl@toot.cafe</code></a> or <a href="https://twitter.com/_philpl">on Twitter <code>@_philpl</code></a>!</strong>
+**I'm always happy to hear from people who use my work, or get some questions that I can answer.
+Feel free to reach out to me [on Mastodon `@philpl@toot.cafe`](https://toot.cafe/@philpl) or [on Twitter `@_philpl`](https://twitter.com/_philpl)!**
 
 <img src="well-hello-there.png" />
