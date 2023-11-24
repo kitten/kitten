@@ -1,11 +1,11 @@
 ### Hiya 👋
 
-I'm Phil, a notorious tinkerer and obsessed with developer tooling and the web platform.
+I'm Phil, a notorious tinkerer and obsessed with developer tooling and the web platform,
+and am working on dev tools at [Expo](https://expo.dev/).
+
 I currently am working on supporting my Open Source work full-time at [0No Co.](https://github.com/0no-co)
-
-You can check out the digital flyer version of 0No Co.'s pitch at [0no.co](https://0no.co), and reach out
-if you'd like support with [`urql`](https://github.com/urql-graphql/urql), or the Web Perf/DX/UX space.
-
+On the side, I'm working on GraphQL tooling and libraries like [`urql`](https://github.com/urql-graphql/urql),
+and various other experiments collected under the [0No Co.](https://github.com/0no-co) name.
 You may also know me from the font I created, [Dank Mono](https://gumroad.com/l/dank-mono).
 
 **I'm always happy to hear from people who use my work, or get some questions that I can answer.
